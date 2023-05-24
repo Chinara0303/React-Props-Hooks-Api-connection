@@ -62,7 +62,6 @@ function Employees() {
               </tr>
             })
           }
-
         </tbody>
       </Table>
     </div>
